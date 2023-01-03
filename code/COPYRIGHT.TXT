@@ -1,0 +1,4 @@
+/* Copyright (C) Aleksandar Poleksic - All Rights Reserved
+ * Unauthorized copying of these files, via any medium is strictly prohibited
+ * Proprietary and confidential
+ */
